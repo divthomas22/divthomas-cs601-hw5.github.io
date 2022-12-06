@@ -1,0 +1,28 @@
+{
+    "my_degrees": [
+        {
+            "degree": {
+                "school": "Lake Park High School",
+                "program": "General Studies",
+                "type": "High School Diploma",
+                "year": 2016
+            }
+        },
+        {
+            "degree": {
+                "school": "University of Iowa",
+                "program": "BioInformatics and Pre-Physical Therapy",
+                "type": "Bachelor of Science",
+                "year": 2020
+            }
+        },
+        {
+            "degree": {
+                "school": "Boston University Metropolitan College",
+                "program": "Software Development",
+                "type": "Master of Science",
+                "year": 2023
+            }
+        }
+    ]
+}

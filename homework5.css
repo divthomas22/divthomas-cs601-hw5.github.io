@@ -1,0 +1,61 @@
+/* All screens have a similar general font and background */
+body {
+    font-family: Helvetica, Verdana, Arial, sans-serif;
+     background-color: lightcyan;
+     color: black;
+     }
+
+/* Header will be consistent throughout all pages */
+
+header {
+    padding: 1em;
+    padding-bottom: 0px;
+    width: 100%;
+    position:sticky;
+    top: 0;
+    background-color: aquamarine;
+}
+
+header h1{
+    text-align: center;
+    text-shadow: 3px 3px grey;
+    color:goldenrod;
+}
+
+
+section h2 {
+    color:rebeccapurple;
+}
+form p {
+    font-weight: bold;
+
+}
+
+form span {
+    font-weight: normal;
+}
+
+#firstName, #lastName, #facilitator {
+    border: 3px solid rebeccapurple;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: right;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+footer p {
+    margin-right: 1em;
+    font-size: small;
+    color: grey;
+}
+
+.container {
+    margin: 3em;
+    margin-bottom: 4em;
+}
+
